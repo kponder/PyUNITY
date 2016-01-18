@@ -12,5 +12,14 @@ This is the effort to implement UNITY in Python using a range of Bayesian method
 We plan to create Probabilistic Graphical Models (PGMs) of increasing complexity to test the framework implementation and the systematic modeling put in place. 
 
 
+# Dependencies:
 
+- astropy
+- sncosmo
+- emcee/emcee3
+- triangle
+- PyMC/PyMC3
+- daft
+
+... and the usual numpy/scipy/mpl business.
 
